@@ -19,9 +19,9 @@ The dashboard helps in identifying trends, comparing performance year-over-year,
 ## 📷 Sample Dashboard Preview
 ### Overall Analysis
 <img width="1598" height="927" alt="Screenshot 2025-08-30 131138" src="https://github.com/user-attachments/assets/98c13fb7-086a-47cc-966c-cb6cf4834cb1" />
-### MTD Report Analysis
+###  MTD Report Analysis
 <img width="1601" height="917" alt="Screenshot 2025-08-30 131211" src="https://github.com/user-attachments/assets/fc7572b3-6b5e-4a26-9d8b-2bc02fc15f8e" />
-### Last Year Analysis
+###  Last Year Analysis
 <img width="1599" height="910" alt="Screenshot 2025-08-30 131236" src="https://github.com/user-attachments/assets/902a19b7-f7a8-40fd-bd23-29171d871c04" />
 
 ## 📜 License
